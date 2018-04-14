@@ -1,0 +1,6 @@
+problem statement:
+  making canteen management easier and profitable for vendor.
+Tech:
+  python
+Authentication:
+  each user has his own mobile number linked to his connection this is basis authentication.
